@@ -1,0 +1,20 @@
+.promo-card {
+  border-radius: 15px;
+  min-height: 100px;
+  transition: transform 0.2s;
+}
+
+.promo-card:hover {
+  transform: translateY(-5px);
+}
+
+.promo-title {
+  font-size: 0.85rem;
+  line-height: 1.2;
+}
+
+.promo-sub {
+  font-size: 1.1rem;
+  font-weight: 900;
+  color: #d32f2f; /* Zomato/Food-app red */
+}

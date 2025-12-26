@@ -1,6 +1,6 @@
 import React from 'react';
-import './styles/Login.css';
-import Navbar from '../components/Navbar';
+import '../styles/Login.css';
+import Navbar from '../components/FoodCard';
 
 const Login = () => {
   return (
